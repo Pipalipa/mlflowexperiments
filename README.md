@@ -1,5 +1,6 @@
 ## ML FLow experiements
 
-MLFLOW_TRACKING_URI=https://dagshub.com/Pipalipa/mlflowexperiments.mlflow \
+MLFLOW_TRACKING_URI=https://dagshub.com/Pipalipa/mlflowexperiment.mlflow \
 MLFLOW_TRACKING_USERNAME=Pipalipa \
-MLFLOW_TRACKING_PASSWORD=f578c731617a25e7e8ed776db87b58f0cffd090c python script.py
+MLFLOW_TRACKING_PASSWORD=634316cc4edff973236b3d4225d45452f3f9b102  \
+python script.py

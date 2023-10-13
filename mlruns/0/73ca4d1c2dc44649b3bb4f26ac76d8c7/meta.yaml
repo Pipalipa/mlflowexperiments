@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/mlflow_experiments/mlflowexperiment/mlruns/0/73ca4d1c2dc44649b3bb4f26ac76d8c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73ca4d1c2dc44649b3bb4f26ac76d8c7
+run_name: merciful-colt-663
+run_uuid: 73ca4d1c2dc44649b3bb4f26ac76d8c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697232537048
+status: 1
+tags: []
+user_id: user
